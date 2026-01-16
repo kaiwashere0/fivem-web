@@ -2,7 +2,7 @@
 
 <br/>
 
-# 🛡️ Kai Web Management
+# 🛡️ Kai Web 
 ### FiveM Sunucuları için Discord Entegreli Web Yönetim Sistemi
 
 <p>
