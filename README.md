@@ -169,7 +169,7 @@ Yönetim süreçlerinizi kolaylaştıran temel modüller.
 Satın alma, lisanslama detayları ve sistem hakkında kapsamlı bilgi almak için aşağıdaki kanallardan ulaşabilirsiniz.
 
 <p align="center">
-  <a href="https://discord.com/users/kaicpp0" target="_blank">
+  <a href="https://discord.com/users/1243266940873740381" target="_blank">
     <img src="https://img.shields.io/badge/Discord-kaicpp0-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="mailto:kaiwashere0@gmail.com">
