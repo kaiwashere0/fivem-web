@@ -79,32 +79,6 @@ Projeyi desteklemek için star bırakabilirsiniz.
 
 ---
 
-<h2><i class="fa-solid fa-gear"></i> Kurulum</h2>
-
-<pre>
-git clone https://github.com/kaiwashere0/KaiWebManagement.git
-cd KaiWebManagement
-npm install
-npm start
-</pre>
-
-<p>
-<b>Not:</b> <code>.env</code> dosyası Discord bot tokeni ve FiveM yapılandırmaları ile doldurulmalıdır.
-</p>
-
----
-
-<h2><i class="fa-solid fa-server"></i> Gereksinimler</h2>
-
-<ul>
-  <li>Node.js v16 veya üzeri</li>
-  <li>Discord Bot Token</li>
-  <li>FiveM Sunucusu</li>
-  <li>VPS veya Web Hosting</li>
-</ul>
-
----
-
 <h2><i class="fa-solid fa-key"></i> Lisanslama Sistemi</h2>
 
 <div style="border:1px solid rgba(255,255,255,0.15); padding:14px; border-radius:8px;">
@@ -145,7 +119,7 @@ Tüm hakları saklıdır.
 <h2><i class="fa-solid fa-address-card"></i> İletişim</h2>
 
 <ul>
-  <li><b>Discord ID:</b> 1243266940873740381</li>
+  <li><b>Discord:</b> kaicpp0 </li>
   <li><b>E-posta:</b> kaiwashere0@gmail.com</li>
 </ul>
 
