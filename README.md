@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/kaiwashere0/KaiWebManagement?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/kaiwashere0/fivem-web?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Commercial-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" />
   <img src="https://img.shields.io/badge/FiveM-Web%20Management-orange?style=flat-square" />
